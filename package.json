@@ -1,5 +1,5 @@
 {
-  "name": "react-fcc-test",
+  "name": "@asteffey/react-fcc-test",
   "version": "1.0.0",
   "description": "Utility to conditionally add the freeCodeCamp test suite to React.",
   "repository": "https://github.com/asteffey/react-fcc-test",
