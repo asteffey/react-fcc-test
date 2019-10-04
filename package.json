@@ -2,9 +2,16 @@
   "name": "react-fcc-test",
   "version": "1.0.0",
   "description": "Utility to conditionally add the freeCodeCamp test suite to React.",
-  "main": "index.js",
   "repository": "https://github.com/asteffey/react-fcc-test",
   "author": "Andrew Steffey",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "react": "^16.9.0",
+    "url-search-params-polyfill": "^7.0.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.18",
+    "eslint": "^6.5.1"
+  }
 }
