@@ -1,7 +1,7 @@
 {
   "name": "@asteffey/react-fcc-test",
   "version": "1.0.4",
-  "description": "Utility to conditionally add the freeCodeCamp test suite to React.",
+  "description": "A React hook to add the freeCodeCamp test suite.",
   "repository": "https://github.com/asteffey/react-fcc-test",
   "author": "Andrew Steffey",
   "license": "MIT",
