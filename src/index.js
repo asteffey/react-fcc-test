@@ -21,7 +21,6 @@ export const FccTests = {
 
 export const useFccTest = ({ fccTest, queryParam } = {}) => {
     useEffect(() => {
-        console.log('hasQueryParam(queryParam):' + hasQueryParam(queryParam));
         if (hasQueryParam(queryParam)) {
 
             setFccTest(fccTest);
