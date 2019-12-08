@@ -1,8 +1,11 @@
 {
   "name": "@asteffey/react-fcc-test",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A React hook to add the freeCodeCamp test suite.",
-  "keywords": ["react", "freecodecamp"],
+  "keywords": [
+    "react",
+    "freecodecamp"
+  ],
   "repository": "https://github.com/asteffey/react-fcc-test",
   "author": "Andrew Steffey",
   "license": "MIT",
